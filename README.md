@@ -1,2 +1,1 @@
-# hellornd
-justcode
+print("hello")
